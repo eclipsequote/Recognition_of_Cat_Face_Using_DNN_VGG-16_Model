@@ -3,4 +3,4 @@
 VGG-16模型下载:
 https://github.com/ry/tensorflow-vgg16/raw/master/vgg16-20160129.tfmodel.torrent
 
-[![Watch the video](https://github.com/eclipsequote/vgg-16_keras/blob/master/cat.jpg)](https://github.com/eclipsequote/vgg-16_keras/blob/master/vgg-16_keras.mp4)
+[![Watch the video](https://github.com/eclipsequote/Recognition_of_Cat_Face_Using_DNN_VGG-16_Model/blob/master/catface.gif)](https://github.com/eclipsequote/vgg-16_keras/blob/master/vgg-16_keras.mp4)
